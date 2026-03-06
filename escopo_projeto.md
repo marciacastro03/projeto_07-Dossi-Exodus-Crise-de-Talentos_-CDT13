@@ -38,4 +38,5 @@ Conclusões: evidências de discriminação, gestor tóxico e plano de retençã
 
 ### Perguntas de cruzamento:
 O gap salarial encontrado é compatível com as estatísticas nacionais de desigualdade de gênero?
+
 A taxa de turnover do dataset é realista para empresas de tecnologia no Brasil?
