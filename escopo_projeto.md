@@ -21,13 +21,13 @@ Análise investigativa com estatísticas descritivas
 Mínimo de 8 visualizações (mix de Matplotlib e Seaborn)
 Respostas à missão com evidências nos dados
 
-    Qual departamento tem o turnover mais alto? Compare a taxa de saída por departamento. Há algum dramaticamente acima da média?
-    Cipriano -> Existe gap salarial de gênero? Compare salários de homens e mulheres no mesmo cargo e departamento. Quantifique a diferença.
-    Marcia -> Mulheres demoram mais para ser promovidas? Compare o meses_no_cargo_anterior entre homens e mulheres no histórico de promoções.
-    Dantas -> A pesquisa de clima confirma um gestor tóxico? Qual departamento tem as piores notas de liderança? Os comentários abertos revelam padrões de assédio ou pressão?
-    Quais fatores mais influenciam a decisão de sair? Satisfação, salário, promoção, horas extras — construa uma análise multivariada.
-    Estime o custo total do turnover por departamento nos últimos 12 meses (R$ 45.000 por saída).
-    Proponha um "scorecard de risco de saída" baseado nos indicadores mais relevantes.
+1. **Cipriano ->** Qual departamento tem o turnover mais alto? Compare a taxa de saída por departamento. Há algum dramaticamente acima da média?
+2. **Cipriano ->** Existe gap salarial de gênero? Compare salários de homens e mulheres no mesmo cargo e departamento. Quantifique a diferença.
+3. **Marcia ->** Mulheres demoram mais para ser promovidas? Compare o meses_no_cargo_anterior entre homens e mulheres no histórico de promoções.
+4. **Dantas ->** A pesquisa de clima confirma um gestor tóxico? Qual departamento tem as piores notas de liderança? Os comentários abertos revelam padrões de assédio ou pressão?
+5. **Dantas ->** Quais fatores mais influenciam a decisão de sair? Satisfação, salário, promoção, horas extras — construa uma análise multivariada.
+6. **Marcia ->** Estime o custo total do turnover por departamento nos últimos 12 meses (R$ 45.000 por saída).
+7. **Marcia ->** Proponha um "scorecard de risco de saída" baseado nos indicadores mais relevantes.
 
 
 ### Documentação
